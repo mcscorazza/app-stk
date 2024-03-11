@@ -3,10 +3,6 @@
 @tailwind utilities;
 
 * {
-<<<<<<< HEAD
     font-family:'Now';
-=======
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
->>>>>>> c93ea040de65c37bbb1c9eb6e2c11826d91e8341
     box-sizing: border-box;
 }
