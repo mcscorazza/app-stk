@@ -215,7 +215,6 @@ const MainContent: React.FC = () => {
               <label className='text-xs font-light text-gray-400' htmlFor="desc">Descrição</label>
               <input className='w-1/2 outline outline-1 outline-gray-200 rounded-l-sm h-7 px-2 text-gray-600' type="text" />
             </div>
-
           </div>
         </div>
 
